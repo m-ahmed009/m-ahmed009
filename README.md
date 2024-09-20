@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://macreation.netlify.app)
+- 👨‍💻 All of my projects are available at [https://macreation.netlify.app]
 
 - 💬 Ask me about **react,laravel,php,django**
 
 - 📫 How to reach me **ahmedbaloch.1906@gmail.com**
 
-- 📄 Know about my experiences [https://macreation.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaaca9XkDE4fSzYxJXO6VD_DBUIg_z0eFesupIwIeiMMlFTse35WK1KpR-A_aem_FqOhYxt0Iyp3M3VT_Efywg](https://macreation.netlify.app/?fbclid=PAZXh0bgNhZW0CMTEAAaaca9XkDE4fSzYxJXO6VD_DBUIg_z0eFesupIwIeiMMlFTse35WK1KpR-A_aem_FqOhYxt0Iyp3M3VT_Efywg)
+- 📄 Know about my experiences [https://macreation.netlify.app]
 
 - ⚡ Fun fact **Iam Honest**
 
