@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react,laravel,php,django**
 
-- 📫 How to reach me **ahmedbaloch.1906@gmail.com**
+- 📫 How to reach me **muhammad.13460.ac@iqra.edu.pk**
 
 - 📄 Know about my experiences [https://macreation.netlify.app]
 
